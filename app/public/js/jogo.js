@@ -49,6 +49,7 @@ $(document).ready(() => {
             let lin = parseInt(str[0]);
             let col = parseInt(str[1]);
 
+            //verficando se tem lugar vago na matriz
             if(mat[lin][col] != '0' && mat[lin][col] != '1') {
                 mat[lin][col] = valor;
                 document.getElementById(this.id).innerHTML = valor;
