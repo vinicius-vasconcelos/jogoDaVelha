@@ -1,6 +1,7 @@
 # jogoDaVelha
 <hr>
-<h2>Jogo da velha simples(testes para o <strong>Vitor</strong> que disse jogo da velha 8 vezes na aula !)<h2>
+<h2>Jogo da velha simples<h2>
+  <small><i>(testes para o <strong>Vitor</strong> que disse jogo da velha 8 vezes na aula !)</i></small>
 <i>Feito em:</i>
   <ul>
     <li>HTML</li>
